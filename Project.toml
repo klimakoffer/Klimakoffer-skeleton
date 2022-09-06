@@ -3,3 +3,6 @@ uuid = "b5e5b4c6-795b-476f-959e-06b5c4781d4c"
 
 [deps]
 UnPack = "3a884ed6-31ef-47d7-9d2a-63182c4928ed"
+
+[compat]
+UnPack = "1"
